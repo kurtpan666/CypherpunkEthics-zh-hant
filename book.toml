@@ -3,7 +3,7 @@ authors = ["Kurt Pan"]
 language = "en"
 multilingual = false
 src = "src"
-title = "密碼朋克倫理"
+title = "密碼龐克倫理"
 
 [preprocessor.toc]
 command = "mdbook-toc"
